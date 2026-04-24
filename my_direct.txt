@@ -1,0 +1,12 @@
+# 直连规则集
+
+DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN,cdn.sfcj.org,DIRECT
+DOMAIN,mwp.bydsb.cc.cd,DIRECT
+DOMAIN-SUFFIX,emby.taotu.ink,DIRECT
+DOMAIN-SUFFIX,545352.xyz,DIRECT
+DOMAIN,fd27,DIRECT
+DOMAIN,app.localhost.qqq,DIRECT
+DOMAIN,emby.my,DIRECT
+DOMAIN,log-api.pangolin-sdk-toutiao.com,DIRECT
+DOMAIN,app-analytics-services.com,DIRECT
