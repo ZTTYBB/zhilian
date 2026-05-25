@@ -13,7 +13,7 @@ DOMAIN,log-api.pangolin-sdk-toutiao.com,DIRECT
 DOMAIN,app-analytics-services.com,DIRECT
 DOMAIN,fd1.kingemby.xyz,DIRECT
 DOMAIN-SUFFIX,gy.emby.yun,DIRECT
-DOMAIN-SUFFIX,emby.n150.asia,DIRECT 
+DOMAIN-SUFFIX,,DIRECT 
 DOMAIN-SUFFIX,nginxlily.cyou,DIRECT
 DOMAIN-SUFFIX,033388.xyz,DIRECT
 DOMAIN,,DIRECT
